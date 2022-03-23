@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smit Vaghani</h1>
-<h3 align="center">I'm a Back-end Web Developer</h3>
+<h3 align="center">I'm a Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit3343&label=Profile%20views&color=0e75b6&style=flat" alt="smit3343" /> </p>
 
