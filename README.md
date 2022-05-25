@@ -5,8 +5,8 @@
 
 <!-- - 🌱 I’m currently learning **Cryptography** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/Smit3343](https://github.com/Smit3343)
-
+- 👨‍💻 All of my projects are available at [github.com/Smit3343](https://github.com/Smit3343)
+- 🌱 I’m currently learning Machine Learning, React JS
 - 📫 How to reach me **smitvaghani3343@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-ng7cFl9QljecRA1zmjFpGTqybcxyR2l/view?usp=sharing)
 
