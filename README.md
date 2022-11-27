@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [github.com/Smit3343](https://github.com/Smit3343)
 - 🌱 I’m currently learning <strong>Machine Learning, React JS</strong>
 - 📫 How to reach me **smitvaghani3343@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W31CPTDYHYWj8rl_WEjgLBz2eub6h9Ue/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qbUYaKZeKGgqmrH8vwnAvYC-w_eir8KA/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
