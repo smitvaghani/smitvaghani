@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Smit Vaghani</h1>
-<h3 align="center">I'm a Web Developer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 
 <!-- - 🌱 I’m currently learning **Cryptography** -->
 
-- 👨‍💻 All of my projects are available at [github.com/Smit3343](https://github.com/Smit3343)
-- 🌱 I’m currently learning <strong>Machine Learning, React JS</strong>
-- 📫 How to reach me **smitvaghani3343@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qbUYaKZeKGgqmrH8vwnAvYC-w_eir8KA/view?usp=share_link)
+- 👨‍💻 All of my projects are available at [github.com/Smit3343](https://github.com/smitvaghani)
+- 📫 How to reach me **vaghanismit1@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wXg3SubpKPCCKssKZQvfK7zFldBe0_Le/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
